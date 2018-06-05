@@ -1,0 +1,9 @@
+@Library("shared-library") _
+
+sampleDSL {
+  [
+    HW = "Hello World!",
+    P1 = "This is P1 value",
+    Custom = "Whatever you want"
+  ]
+}
